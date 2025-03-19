@@ -8,8 +8,8 @@
 
 ## 🔧 技术栈
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![c语言](https://img.shields.io/badge/-Java-007396?logo=java)
-![c++](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![c语言](https://img.shields.io/badge/-c语言-007396?logo=java)
+![c++](https://img.shields.io/badge/-c++-61DAFB?logo=react)
 
 ## 🏆 校园成就
 - 开发「课程表同步小程序」被 500+ 同学使用
