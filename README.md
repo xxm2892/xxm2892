@@ -16,12 +16,10 @@
 
 ## 📚 近期项目
 ### [校园二手书交易平台](https://github.com/yourname/book-exchange)
-![Python][Django] ![前端][Vue.js]  
 - 实现书籍检索与在线交易功能
 - 采用JWT实现安全认证
 
 ### [实验室设备管理系统](https://github.com/yourname/lab-mgmt)
-![Java][Spring Boot] ![数据库][MySQL]  
 - 开发设备预约与状态监控模块
 - 减少实验室管理时间成本30%
 
